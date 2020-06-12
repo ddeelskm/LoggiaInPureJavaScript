@@ -1,11 +1,19 @@
 LoggiaInPureJavaScript
 ---
-Все изменения, просматривайте в комитах.
+All the changes you see in the commits.
 ---
-обновление 12.06.2020 / 
-- Добавлены функции для модального окна.
+update v2 12.06.2020 /
+---
+- Added tabs.
+- Added a form for sending data.
+- Added a form with a calculator.
+- Added a timer
+- Added an image display module
+---
+update 12.06.2020 /
+- Added functions for the modal window.
 ---
 
-Готовый проект хранится в директории dist
-Все изменения происходят в директории src, и после сборки
-попадает в директорию dist.
+The finished project is stored in the dist directory
+All changes occur in the src directory, and after the build
+goes to the dist directory.
